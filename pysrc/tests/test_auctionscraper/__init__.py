@@ -1,0 +1,3 @@
+"""
+The auctionscraper test module.
+"""
