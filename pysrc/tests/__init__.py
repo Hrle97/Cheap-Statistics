@@ -1,3 +1,3 @@
 """
-This is the tests package of the cheapstat package.
+The cheapstat tests package.
 """
